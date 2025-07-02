@@ -3,3 +3,107 @@ numpy
 matplotlib
 tensorflow
 tensorflow_decision_forests
+scikit-learn
+scipy   
+seaborn
+xgboost 
+lightgbm
+catboost
+# Additional libraries for data processing and visualization
+plotly  
+# Additional libraries for model evaluation and metrics
+mlflow
+# Additional libraries for data handling and manipulation
+dask
+# Additional libraries for deep learning and neural networks
+keras
+# Additional libraries for natural language processing
+nltk
+# Additional libraries for image processing
+opencv-python
+# Additional libraries for time series analysis
+statsmodels
+# Additional libraries for web scraping and data collection
+beautifulsoup4
+# Additional libraries for data validation and testing
+great_expectations
+# Additional libraries for data versioning and management
+dvc
+# Additional libraries for distributed computing
+ray
+# Additional libraries for data visualization
+bokeh
+# Additional libraries for data augmentation
+albumentations
+# Additional libraries for model interpretability
+shap
+# Additional libraries for feature engineering
+feature-engine
+# Additional libraries for hyperparameter tuning
+optuna
+# Additional libraries for model deployment
+mlflow
+# Additional libraries for data augmentation in computer vision
+albumentations
+# Additional libraries for data augmentation in NLP
+nlpaug
+# Additional libraries for data augmentation in time series
+tsaug
+# Additional libraries for anomaly detection
+pyod
+# Additional libraries for graph-based machine learning
+networkx
+# Additional libraries for Bayesian statistics
+pymc3
+# Additional libraries for reinforcement learning
+stable-baselines3
+# Additional libraries for explainable AI
+lime
+# Additional libraries for model compression and optimization
+neural-compressor
+# Additional libraries for model serving
+tensorflow-serving-api
+# Additional libraries for data exploration and analysis
+pandas-profiling
+# Additional libraries for data visualization in Jupyter notebooks
+jupyterlab
+# Additional libraries for data manipulation and analysis
+polars
+# Additional libraries for data transformation and feature extraction
+tsfresh
+# Additional libraries for data preprocessing and cleaning
+fancyimpute
+# Additional libraries for data integration and ETL
+apache-airflow
+# Additional libraries for data storage and retrieval
+sqlalchemy
+# Additional libraries for data serialization and deserialization
+pyarrow
+# Additional libraries for data streaming and real-time processing
+kafka-python
+# Additional libraries for data security and encryption
+cryptography
+# Additional libraries for data governance and compliance
+datahub
+# Additional libraries for data cataloging and metadata management
+datacatalog
+# Additional libraries for data lineage and tracking
+data-lineage
+# Additional libraries for data quality and profiling
+data-quality
+# Additional libraries for data visualization and reporting
+dash
+# Additional libraries for data science workflows and pipelines
+kedro
+# Additional libraries for data science collaboration and version control
+gitpython
+# Additional libraries for data science project management
+cookiecutter
+# Additional libraries for data science documentation
+sphinx
+# Additional libraries for data science testing and validation
+pytest
+# Additional libraries for data science automation
+invoke
+# Additional libraries for data science reproducibility
+reprozip
