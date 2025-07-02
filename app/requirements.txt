@@ -3,5 +3,3 @@ numpy
 matplotlib
 tensorflow
 tensorflow_decision_forests
-seaborn
-matplotlib.pyplot
