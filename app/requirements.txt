@@ -2,7 +2,6 @@ pandas
 numpy
 matplotlib
 tensorflow
-tensorflow_decision_forests
 scikit-learn
 scipy   
 seaborn
@@ -10,7 +9,6 @@ xgboost
 lightgbm
 catboost
 tensorflow-serving-api
-
 
 # Additional libraries for data processing and visualization
 plotly  

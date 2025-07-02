@@ -2,6 +2,7 @@
 # /data
 
 # Environments
+
 .env
 .venv
 env/
