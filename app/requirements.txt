@@ -9,6 +9,9 @@ seaborn
 xgboost 
 lightgbm
 catboost
+tensorflow-serving-api
+
+
 # Additional libraries for data processing and visualization
 plotly  
 # Additional libraries for model evaluation and metrics
@@ -62,7 +65,6 @@ lime
 # Additional libraries for model compression and optimization
 neural-compressor
 # Additional libraries for model serving
-tensorflow-serving-api
 # Additional libraries for data exploration and analysis
 pandas-profiling
 # Additional libraries for data visualization in Jupyter notebooks
